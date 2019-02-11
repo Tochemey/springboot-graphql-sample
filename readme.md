@@ -4,7 +4,7 @@
 
 [Rest](https://en.wikipedia.org/wiki/Representational_state_transfer) is the most popular way to expose data from a server though a Web API. It has even gained more popularity today due to the rise of [SPA](https://en.wikipedia.org/wiki/Single-page_application) and [Microservices Architecture](https://en.wikipedia.org/wiki/Microservices).
 
-However **REST**, though it is good and gets the job done has some gaps that **GraphQL** has come to fill in [Rest vs GraphQL critical review](https://blog.goodapi.co/rest-vs-graphql-a-critical-review-5f77392658e7)
+However **REST**, though it is good and gets the job done has some gaps that **GraphQL** has come to fill in [Rest vs GraphQL critical review](https://blog.goodapi.co/rest-vs-graphql-a-critical-review-5f77392658e7) those gaps.
 
 [GraphQL](https://graphql.org/) is a query language that offers an alternative model to developing APIs using a strong type system to provide a detailed description of an API.
 
